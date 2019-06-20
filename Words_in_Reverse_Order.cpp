@@ -35,9 +35,10 @@ int main()
         
     reverse(v1.begin(), v1.begin()+v1.size());
        
+        // -------------- Printing a Vector ---------------------
+        
     for (int i = 0; i <v1.size(); i++) 
     cout << v1[i] << " ";
-        // -------------- Printing a Vector ---------------------
     cout << endl;    
     }
     
